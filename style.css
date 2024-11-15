@@ -1,0 +1,52 @@
+
+
+div {
+    display: inline-block;
+    border: 1px solid rgb(232, 229, 229);
+    width: 210px;
+    height: 200px;
+}
+.vermelho {
+    background-color: rgb(255, 0, 0);
+  }
+  
+  .azul {
+    background-color: rgb(6, 6, 158);
+  }
+  
+  .verde {
+    background-color: rgb(22, 204, 22);
+  }
+  
+  .amarelo {
+    background-color: rgb(251, 251, 58);
+  }
+  #vermelho{
+    background-color: rgb(255, 0, 0);
+    display: inline-block;
+    border: 1px solid rgb(5, 0, 0);
+
+  }
+  #vermelho:hover { background-color: rgb(6, 6, 158);}
+
+  #vermelho2{
+    background-color: rgb(255, 0, 0);
+    display: inline-block;
+    border: 1px solid rgb(5, 0, 0);
+  }
+  #vermelho2:hover { background-color: rgb(6, 6, 158);}
+
+  #vermelho3{
+    background-color: rgb(255, 0, 0);
+    display: inline-block;
+    border: 1px solid rgb(5, 0, 0);
+  }
+  #vermelho3:hover {background-color:  rgb(251, 251, 58) ;}
+
+  #vermelho4{
+    background-color: rgb(255, 0, 0);
+    display: inline-block;
+    border: 1px solid rgb(5, 0, 0);
+  }
+  #vermelho4:hover {background-color:  rgb(251, 251, 58) ;}
+
